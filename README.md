@@ -12,7 +12,7 @@ A bank interface with great concepts of UX and interaction. Inspired in the braz
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-contribuir">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">License</a>
 </p>
@@ -20,7 +20,7 @@ A bank interface with great concepts of UX and interaction. Inspired in the braz
 <br>
 
 <p align="center">
-  <img alt="Frontend" src=".github/interface.png" width="100%">
+  <img alt="Frontend" src=".github/interface.png" width="50%">
 </p>
 
 ## :rocket: Tecnologias
