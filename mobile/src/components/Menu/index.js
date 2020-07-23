@@ -18,7 +18,7 @@ export default function Menu({ translateY }) {
     >
       <Code>
         <QRCode
-          value="https://rocketseat.com.br"
+          value="https://github.com/jowpurcinelli"
           size={80}
           fgColor="#fff"
           bgColor="#8B10AE"
@@ -28,7 +28,7 @@ export default function Menu({ translateY }) {
       <Nav>
         <NavItem>
           <Icon name="help-outline" size={20} color="#FFF" />
-          <NavText>Me ajuda</NavText>
+          <NavText>Help</NavText>
         </NavItem>
         <NavItem>
           <Icon name="person-outline" size={20} color="#FFF" />
