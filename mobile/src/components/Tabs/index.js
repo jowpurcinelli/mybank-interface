@@ -26,23 +26,23 @@ export default function Tabs({ translateY }) {
       <TabsContainer>
         <TabItem>
           <Icon name="person-add" size={24} color="#FFF" />
-          <TabText>Indicar amigos</TabText>
+          <TabText>Indicate friends</TabText>
         </TabItem>
         <TabItem>
           <Icon name="chat-bubble-outline" size={24} color="#FFF" />
-          <TabText>Cobrar</TabText>
+          <TabText>Charge</TabText>
         </TabItem>
         <TabItem>
           <Icon name="arrow-downward" size={24} color="#FFF" />
-          <TabText>Depositar</TabText>
+          <TabText>Deposit</TabText>
         </TabItem>
         <TabItem>
           <Icon name="arrow-upward" size={24} color="#FFF" />
-          <TabText>Transferir</TabText>
+          <TabText>Transfer</TabText>
         </TabItem>
         <TabItem>
           <Icon name="lock" size={24} color="#FFF" />
-          <TabText>Bloquear cartão</TabText>
+          <TabText>Block card</TabText>
         </TabItem>
       </TabsContainer>
     </Container>
