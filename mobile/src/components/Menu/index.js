@@ -32,20 +32,20 @@ export default function Menu({ translateY }) {
         </NavItem>
         <NavItem>
           <Icon name="person-outline" size={20} color="#FFF" />
-          <NavText>Perfil</NavText>
+          <NavText>My profile</NavText>
         </NavItem>
         <NavItem>
           <Icon name="credit-card" size={20} color="#FFF" />
-          <NavText>Configurar cartão</NavText>
+          <NavText>Configure card</NavText>
         </NavItem>
         <NavItem>
           <Icon name="smartphone" size={20} color="#FFF" />
-          <NavText>Configurações do app</NavText>
+          <NavText> App preferences</NavText>
         </NavItem>
       </Nav>
 
       <SignOutButton onPress={() => {}}>
-        <SignOutButtonText>SAIR DO APP</SignOutButtonText>
+        <SignOutButtonText>EXIT</SignOutButtonText>
       </SignOutButton>
     </Container>
   );
