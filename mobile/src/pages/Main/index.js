@@ -78,12 +78,12 @@ export default function Main() {
             }}
             >
               <CardHeader>
-                <Icon name="attach-money" size={28} color="#666" />
+                <Icon name="attach-money" size={27} color="#666" />
                 <Icon name="visibility-off" size={28} color="#666" />
               </CardHeader>
               <CardContent>
-                <Title>Saldo disponível</Title>
-                <Description>R$ 197.611,65</Description>
+                <Title>Sueldo disponível</Title>
+                <Description>UYP 197.611,65</Description>
               </CardContent>
               <CardFooter>
                 <Annotation>
