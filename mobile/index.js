@@ -6,3 +6,4 @@ AppRegistry.registerComponent(appName, () => App);
 
 
 //asi
+//Remember to fix structure
