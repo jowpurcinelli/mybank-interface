@@ -15,7 +15,7 @@ A bank interface with great concepts of UX and interaction. Inspired in the braz
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-contribuir">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ 
   <a href="#memo-licença">License</a>
 </p>
 
@@ -32,14 +32,9 @@ This project is being created using the following technologies:
 
 ## 💻 Project
 
-A bank modern and easy-going experience interface.
+A modern and easy-going experience of a bank interface.
 
-## 🤔  Want to be a part?
 
-- Fork this repository;
-- Create a branch with your feature: `git checkout -b minha-feature`;
-- Commit you alterations: `git commit -m 'feat: Minha nova feature'`;
-- Push it to your branch: `git push origin minha-feature`.
 
 
 
