@@ -87,7 +87,7 @@ export default function Main() {
               </CardContent>
               <CardFooter>
                 <Annotation>
-                Transferência de R$ 20,00 recebida de Diego Schell Fernandes hoje às 06:00h
+                Transferencia de UYP 200,00 recibida de Jose Pepe Mujica hoje às 06:00h
                 </Annotation>
               </CardFooter>
             </Card>
