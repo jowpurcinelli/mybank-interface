@@ -87,7 +87,7 @@ export default function Main() {
               </CardContent>
               <CardFooter>
                 <Annotation>
-                Transferencia de UYP 200,00 recibida de Jose Pepe Mujica hoje às 06:00h
+                Giro de UYP 200,00 recibida de Jose Pepe Mujica hoy a las 06:00h
                 </Annotation>
               </CardFooter>
             </Card>
