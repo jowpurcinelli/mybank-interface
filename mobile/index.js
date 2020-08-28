@@ -7,3 +7,4 @@ AppRegistry.registerComponent(appName, () => App);
 
 //asi
 //Remember to fix structure
+//Redesign header into styled-components
