@@ -39,6 +39,14 @@ export default function Menu({ translateY }) {
           <NavText>Configure card</NavText>
         </NavItem>
         <NavItem>
+          <Icon name="menu-item" size={20} color="#FFF" />
+          <NavText>Configure **</NavText>
+        </NavItem>
+        <NavItem>
+          <Icon name="***" size={20} color="#FFF" />
+          <NavText>Configure **</NavText>
+        </NavItem>
+        <NavItem>
           <Icon name="smartphone" size={20} color="#FFF" />
           <NavText> App preferences</NavText>
         </NavItem>
