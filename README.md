@@ -8,14 +8,9 @@ A bank interface with great concepts of UX and interaction. Inspired in the braz
     MyBank Interface
 </h1>
 
-<h4 align="center">
-  ☕ Code and coffee
-</h4>
-
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
- 
   <a href="#memo-licença">License</a>
 </p>
 
