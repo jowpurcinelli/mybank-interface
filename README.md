@@ -21,7 +21,7 @@ A bank interface with great concepts of UX and interaction. Inspired in the braz
 </p>
 
 ## :rocket: Tecnologias
-This project is being created using the following technologies:
+
 
 - [React Native](https://facebook.github.io/react-native/)
 
